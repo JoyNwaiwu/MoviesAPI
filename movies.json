@@ -1,0 +1,14 @@
+[
+    {
+      "title": "Star girl",
+      "year": "2012",
+      "type": "Movie",
+      "genre": "romance"
+    },
+    {
+      "title": "BigBang",
+      "year": "2000",
+      "type": "Series",
+      "genre": "comedy"
+    }
+]
